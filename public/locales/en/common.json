@@ -64,7 +64,7 @@
 
     "wordOfTheDay" : "Word of the day",
     "copyright" : "© Glosseta Foundation, 2022",
-
+    "requestTermButton": "Request A Term",
     "requestATermTitle": "Request A Term",
     "requestATermText": "Please use the following form to submit a term you'd like to be defined. All fields are required.",
     "termLabel": "Term",
