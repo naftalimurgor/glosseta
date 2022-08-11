@@ -63,5 +63,19 @@
     "footerArweaveA11yText" : "Opens Arweave.org in a new window",
 
     "wordOfTheDay" : "Word of the day",
-    "copyright" : "© Glosseta Foundation, 2022"
+    "copyright" : "© Glosseta Foundation, 2022",
+
+    "requestATermTitle": "Request A Term",
+    "requestATermText": "Please use the following form to submit a term you'd like to be defined. All fields are required.",
+    "termLabel": "Term",
+    "termCategoryLabel": "Category",
+    "termAdditionReasonLabel": "Why should this term be added?",
+    "submitBtnText": "Submit",
+    "generalOption": "General",
+    "protocolOption": "Protocol",
+    "DAOoption": "Dao",
+    "tokenOption": "Token",
+    "applicationOption": "Application",
+    "financeOption": "Finance"
+
 }
